@@ -1,6 +1,6 @@
 # band_name_generator.py
 # December 2025
-# Originally written in December 2025 by FiveEyeTea
+# Originally written in December 2025 by Jacob F. (https://github.com/tenshi-net)
 # A very simple script that combines a user's favorite rock or mineral with a favorite hobby to generate a possible name for a heavy metal band.
 # Script is based on a project from the Udemy course, "100 Days of Code: The Complete Python Pro Bootcamp" by Dr. Angela Yu
 
